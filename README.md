@@ -62,5 +62,5 @@ The presentation provides concrete analytical figures to illustrate the threat e
 
 ---
 
-## ⚠️ Security Disclaimer
+##  Security Disclaimer
 *This security training artifact was designed and compiled strictly for educational, organizational training, and internship evaluation purposes. The content is meant to harden human-layer defenses against real-world social engineering vectors. All brand names, trade icons, and structural samples referenced are for illustrative training analysis only.*
