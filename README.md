@@ -61,6 +61,3 @@ The presentation provides concrete analytical figures to illustrate the threat e
 * **$0** is the approximate operational barrier to entry for an attacker to launch 10,000 automated phishing templates simultaneously.
 
 ---
-
-##  Security Disclaimer
-*This security training artifact was designed and compiled strictly for educational, organizational training, and internship evaluation purposes. The content is meant to harden human-layer defenses against real-world social engineering vectors. All brand names, trade icons, and structural samples referenced are for illustrative training analysis only.*
